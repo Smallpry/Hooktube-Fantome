@@ -4,7 +4,7 @@
 
 # Notes
 
-This is my first usestyle, with more to come. I made this to match the rice on my thinkpad. There will be a few more like this in the future.
+This is my first userstyle, with more to come. I made this to match the rice on my thinkpad. There will be a few more like this in the future.
 
 # Usage
 <ol>
@@ -14,4 +14,4 @@ This is my first usestyle, with more to come. I made this to match the rice on m
 <li> Enjoy!
 <ol>
 
-# Make sure to bring any issues with the style to my attention.
+# Make sure to bring any issues with the userstyle to my attention.
