@@ -1,6 +1,6 @@
 # Hooktube Fantome
 
-<img src="Hook fantome.png width="100%">
+<img src="Hook fantome.png" width="100%">
 
 # Notes
 
@@ -13,4 +13,4 @@ This is my first usestyle, with more to come. I made this to match the rice on m
 <li> Go to <a href="https://userstyles.org/styles/158498/hooktube-fantome">this website</a> and click install style
 <li> Enjoy!
 <ol>
-#Make sure to bring any issues with the style to my attention.
+# Make sure to bring any issues with the style to my attention.
